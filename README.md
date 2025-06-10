@@ -1,4 +1,4 @@
-Trigger Warning : French
+French Programmer
 
 # Programmation enjoyer, I like to do side quests.
 Entering in a CS Master degree next year in UI/UX
